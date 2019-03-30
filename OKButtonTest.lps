@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="13">
+      <Unit0>
+        <Filename Value="OKButtonTest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="48"/>
+        <CursorPos X="24" Y="52"/>
+        <UsageCount Value="45"/>
+        <Bookmarks Count="2">
+          <Item0 Y="51" ID="4"/>
+          <Item1 Y="139" ID="9"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\gui\fpg_form.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="373"/>
+        <CursorPos X="7" Y="387"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\gdi\fpg_gdi.pas"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="1944"/>
+        <CursorPos X="33" Y="1957"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="1703"/>
+        <CursorPos Y="1707"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\gui\fpg_dialogs.pas"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="338"/>
+        <CursorPos Y="349"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\gui\fpg_button.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="682"/>
+        <CursorPos Y="693"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_widget.pas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="652"/>
+        <CursorPos Y="662"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\gui\fpg_window.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="39"/>
+        <CursorPos X="17" Y="51"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_base.pas"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="46"/>
+        <CursorPos X="57" Y="57"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_msgqueue.inc"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="181"/>
+        <CursorPos X="3" Y="181"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="183"/>
+        <CursorPos X="22" Y="196"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\inc\objpas.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="276"/>
+        <CursorPos Y="279"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1711"/>
+        <CursorPos X="74" Y="1725"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit12>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <Caret Line="1705" Column="44" TopLine="1700"/>
+      </Position1>
+      <Position2>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <Caret Line="281" Column="34" TopLine="270"/>
+      </Position2>
+      <Position3>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <Caret Line="1705" Column="44" TopLine="1684"/>
+      </Position3>
+      <Position4>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <Caret Line="281" Column="34" TopLine="270"/>
+      </Position4>
+      <Position5>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <Caret Line="1707" TopLine="1703"/>
+      </Position5>
+      <Position6>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <Caret Line="1709" TopLine="1703"/>
+      </Position6>
+      <Position7>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <Caret Line="1711" TopLine="1703"/>
+      </Position7>
+      <Position8>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <Caret Line="1712" TopLine="1703"/>
+      </Position8>
+      <Position9>
+        <Filename Value="OKButtonTest.lpr"/>
+        <Caret Line="129" Column="23" TopLine="116"/>
+      </Position9>
+      <Position10>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\inc\objpash.inc"/>
+        <Caret Line="203" Column="21" TopLine="195"/>
+      </Position10>
+      <Position11>
+        <Filename Value="OKButtonTest.lpr"/>
+        <Caret Line="129" Column="23" TopLine="118"/>
+      </Position11>
+      <Position12>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\inc\objpash.inc"/>
+        <Caret Line="203" Column="21" TopLine="193"/>
+      </Position12>
+      <Position13>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\inc\objpas.inc"/>
+        <Caret Line="286" Column="12" TopLine="283"/>
+      </Position13>
+      <Position14>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\inc\objpash.inc"/>
+        <Caret Line="196" Column="22" TopLine="183"/>
+      </Position14>
+      <Position15>
+        <Filename Value="OKButtonTest.lpr"/>
+        <Caret Line="135" Column="33" TopLine="118"/>
+      </Position15>
+      <Position16>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_main.pas"/>
+        <Caret Line="1707" TopLine="1703"/>
+      </Position16>
+      <Position17>
+        <Filename Value="OKButtonTest.lpr"/>
+        <Caret Line="137" Column="7" TopLine="119"/>
+      </Position17>
+      <Position18>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <Caret Line="1866" Column="14" TopLine="1856"/>
+      </Position18>
+      <Position19>
+        <Filename Value="OKButtonTest.lpr"/>
+        <Caret Line="140" Column="5" TopLine="119"/>
+      </Position19>
+      <Position20>
+        <Filename Value="OKButtonTest.lpr"/>
+        <Caret Line="128" Column="10" TopLine="122"/>
+      </Position20>
+      <Position21>
+        <Filename Value="OKButtonTest.lpr"/>
+        <Caret Line="53" Column="17" TopLine="42"/>
+      </Position21>
+      <Position22>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\gui\fpg_window.pas"/>
+        <Caret Line="51" Column="17" TopLine="39"/>
+      </Position22>
+      <Position23>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\fpg_base.pas"/>
+        <Caret Line="57" Column="57" TopLine="46"/>
+      </Position23>
+      <Position24>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\gdi\fpg_gdi.pas"/>
+        <Caret Line="1955" TopLine="1978"/>
+      </Position24>
+      <Position25>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\gdi\fpg_gdi.pas"/>
+        <Caret Line="2133" Column="31" TopLine="2113"/>
+      </Position25>
+      <Position26>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\gdi\fpg_gdi.pas"/>
+        <Caret Line="1945" Column="33" TopLine="1934"/>
+      </Position26>
+      <Position27>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\corelib\gdi\fpg_gdi.pas"/>
+        <Caret Line="2133" Column="31" TopLine="2113"/>
+      </Position27>
+      <Position28>
+        <Filename Value="OKButtonTest.lpr"/>
+        <Caret Line="33" Column="21" TopLine="14"/>
+      </Position28>
+      <Position29>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\gui\fpg_form.pas"/>
+        <Caret Line="581" Column="13" TopLine="563"/>
+      </Position29>
+      <Position30>
+        <Filename Value="C:\development\Extras\Graemeg-fpGUI-AJg.git\src\gui\fpg_form.pas"/>
+        <Caret Line="105" Column="26" TopLine="93"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
